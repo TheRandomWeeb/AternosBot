@@ -22,4 +22,4 @@ async def status(ctx):
     text = ServerStatus()
     await ctx.send(f'Server is {text}!')
 
-bot.run('ODkzMzQwNTgzMzU4MjU5Mjcw.YVaCQA.-32uBErtztFJxbEr9twtHlMVBfw')
+bot.run('ODkzMzQwNTgzMzU4MjU5Mjcw.YVaCQA.s-_1Ep6axsiK85gYpP7kUJaKj38')
